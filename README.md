@@ -1,0 +1,2 @@
+# Makerevuytneri_erankyunacman_modelneri_naxagcman_algoritmeri_mshakum
+Մակերևույթների եռանկյունացման մոդելների  նախագծման ալգորիթմների մշակում
